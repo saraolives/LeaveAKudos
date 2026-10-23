@@ -7,6 +7,11 @@ To install in Firefox:
 - Click "Load Temporary Add-On"
 - Open the `leaveakudos.js` file
 
+To install in Chrome:
+- Go to `chrome://extensions` in a new tab. Or, click the Chrome menu, hover over More Tools, then select Extensions.
+- Enable Developer Mode by clicking the toggle switch next to Developer mode.
+- Click the "Load unpacked" button and select the LeaveAKudos directory.
+
 To use:
 - From the Create Entry page in Dreamwidth, make sure you're clicked into the entry text box. 
 - Type `Ctrl + Y` 
